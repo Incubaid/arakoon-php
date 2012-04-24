@@ -2,7 +2,7 @@
 
 USER=`whoami`
 
-cd src/client/php/test
+cd test
 
 export PATH=/opt/qbase3/bin/:/opt/qbase3/apps/arakoon/bin:$PATH
 export LD_LIBRARY_PATH=/opt/qbase3/lib
